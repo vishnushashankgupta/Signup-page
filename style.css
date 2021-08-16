@@ -1,0 +1,37 @@
+body{
+    background: #556270;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #FF6B6B, #556270);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #FF6B6B, #556270); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+
+    margin-top: 30px;
+}
+.Outer-box{
+
+    background: #8e9eab;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #eef2f3, #8e9eab);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #eef2f3, #8e9eab); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    text-align: center;
+    padding: 10px;
+    height: 500px;
+    width: 400px;
+    border-radius: 5%;
+    
+}
+.Input-Box{
+    margin-bottom: 20px;
+}
+.icon{
+    width: 24px;
+}
+.form-heading{
+   margin-bottom: 30px;
+}
+.btn-block{
+    
+    width: 380px;
+}
+.form-check-label{
+    color: black;
+    margin-bottom: 20px;
+}
